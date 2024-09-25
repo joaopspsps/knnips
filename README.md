@@ -2,7 +2,7 @@
 
 > An incredibly slow $k$-NN implementation in MIPS-32 assembly. Or
 > rather... $k$-Fugue in MIDI from MARS? 🎶 The oracles in `egg.s` tell
-> --- should bytes align with stars, and "bach" be drawn by shell ---
+> &mdash; should bytes align with stars, and "bach" be drawn by shell &mdash;
 > then you shall hear the bars.
 
 ---
