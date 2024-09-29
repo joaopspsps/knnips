@@ -29,3 +29,20 @@ defaults to 1 if not given.
 ## How it works
 
 TODO
+
+## Licensing
+
+`knnips` is licensed under the terms of the GPL-3.0 license. See the
+`LICENSE` file for details.
+
+### External dependencies
+
+The MARS software (`Mars4_5.jar`) is licensed under the terms of the MIT
+license
+(<https://courses.missouristate.edu/KenVollmar/mars/license.htm>). Its
+license is included the `Mars4_5.jar` archive, and can be obtained with:
+
+    jar -xf Mars4_5.jar MARSlicense.txt
+
+The `MARSlicense.txt` file is included in this repository for compliance
+with the license's terms.
