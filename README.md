@@ -32,8 +32,7 @@ TODO
 
 ## Licensing
 
-`knnips` is licensed under the terms of the GPL-3.0 license. See the
-`LICENSE` file for details.
+`knnips` is licensed under the terms of the [GPL-3.0 license](LICENSE).
 
 ### External dependencies
 
